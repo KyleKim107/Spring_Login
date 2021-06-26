@@ -1,5 +1,6 @@
-package com.demo.login;
+package com.demo.login.customer;
 
+import com.demo.login.user.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 

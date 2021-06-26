@@ -1,7 +1,8 @@
-package com.demo.login;
+package com.demo.login.security;
 
 import javax.sql.DataSource;
 
+import com.demo.login.customer.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

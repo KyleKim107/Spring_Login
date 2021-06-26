@@ -1,5 +1,7 @@
-package com.demo.login;
+package com.demo.login.customer;
 
+import com.demo.login.user.User;
+import com.demo.login.user.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

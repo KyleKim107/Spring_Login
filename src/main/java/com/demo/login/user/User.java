@@ -1,4 +1,4 @@
-package com.demo.login;
+package com.demo.login.user;
 
 import javax.persistence.*;
 

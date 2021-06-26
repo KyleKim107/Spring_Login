@@ -1,5 +1,7 @@
 package com.demo.login;
 
+import com.demo.login.user.User;
+import com.demo.login.user.UserRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase;
